@@ -1,13 +1,63 @@
-# React + Vite
+  <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
+   <h3 align="center">Filmflix+</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+   ## <a name="introduction">🤖 Introduction</a>
+   
+This is a movie favorite saving and tracking website using React.js , FetchApi and LocalStorage. You can search all movies and add them to your favorites.
 
-Currently, two official plugins are available:
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js
+- Fetch Api
+- LocalStorage
+- Vite
+- Tailwind CSS
 
-## Expanding the ESLint configuration
+## <a name="features">🔋 Features</a>
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# filmflixplus
+👉 **Listing movies and searching from the search bar (Fetch Api).
+
+👉 **Ability to add and remove movies from favorites (LocalStorage).
+
+👉 **Design compatible with all devices.Mobile, Tablet, Desktop, Laptop.
+
+and much more including code architecture and reusability
+
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/Falcon-tech-code/filmflixplus
+cd apple_website
+```
+
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
